@@ -26,6 +26,7 @@ type ConfError struct {
     errMsg string
 }
 
+
 var allowModel = map[string]int{"default":1}
 
 func LoadConf(fileName string, model string) (*GlassConf, error) {
