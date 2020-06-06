@@ -1,4 +1,4 @@
-package goconf
+package glass_conf
 
 const (
 	NORMAL = 0
